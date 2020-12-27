@@ -18,3 +18,7 @@ So if you put a tag for example into your bathroom, and set up an alarm with tha
 * custom ring-tone
 * put vibration on/off
 * put alarms off via NFC tag
+
+*This is a branch of the original app.*
+I really like this project, and seeing that the latest release is over 3 years old (as of end of 2020), I'm hoping to improve this project, here are some of the things that I'm planning to do:
+1. Auto save the alarms (as of now you have to return to the main page for the alarm to be saved after changing the time or settings)
